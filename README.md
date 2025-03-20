@@ -2,7 +2,7 @@
 "Join me on an exciting end-to-end Excel project where we’ll dive into real-world coffee sales data! We’ll gather, clean, and transform raw data, then use pivot tables and charts to build a dynamic dashboard. In the end, you'll have a powerful tool to track trends, analyze key metrics, and make data-driven decisions!
 
 
-##Steps/activities involved in the creation of the dashboard in cronological order;
+## Steps/activities involved in the creation of the dashboard in cronological order;
 1.	XLOOKUP
 2.	INDEX MATCH
 3.	Multiplication formula for Sales
@@ -18,5 +18,5 @@
 13.	Building the Dashboard
 
     
- ##Data set used
-    -<a href ="https://github.com/babazeek/Excel-dashboard/blob/main/coffeeOrdersData.xlsx">Data set </a>
+ ## Data set used
+    -<a href ="https://github.com/babazeek/Excel-dashboard/blob/main/coffeeOrdersData.xlsx"> Data set </a>
