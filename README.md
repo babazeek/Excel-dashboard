@@ -21,8 +21,9 @@
  ## Data set used  
 [Dataset](https://github.com/babazeek/Excel-dashboard/blob/main/coffeeOrdersProjectdata.xlsx)
 
-##The final interactive dashboard
-[view of the resulting dashbord]((https://github.com/babazeek/Excel-dashboard/blob/main/Coffeesalsedashboard.png))
+##The resulting dashboard
+<a href="https://github.com/babazeek/Excel-dashboard/blob/main/Coffeesalsedashboard.png">dashboard</a>
+
 
 
 
