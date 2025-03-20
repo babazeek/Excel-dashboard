@@ -15,10 +15,9 @@
 10.	Insert Timeline + Formatting
 11.	Insert Slicers + Formatting
 12.	Updating the Pivot Table Data Source
-13.	Building the [Dashboard](https://github.com/babazeek/Excel-dashboard/blob/main/Coffeesalsedashboard.png)
+13.	Building the [Dashboard](https://github.com/babazeek/Excel-dashboard/blob/main/mycoffeeOrdersdashboard.xlsx)
 
-
-    
+   
  ## Data set used  
 [Dataset](https://github.com/babazeek/Excel-dashboard/blob/main/coffeeOrdersProjectdata.xlsx)
 
