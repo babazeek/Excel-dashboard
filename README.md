@@ -18,7 +18,7 @@
 13.	Building the Dashboard
 
     
- ## Data set used and resulting dashboard  
+ ## Data set used and snapshot of resulting dashboard  
 [Dataset](https://github.com/babazeek/Excel-dashboard/blob/main/coffeeOrdersProjectdata.xlsx)
 
 <a href="https://github.com/babazeek/Excel-dashboard/blob/main/Coffeesalsedashboard.png">Dashboard</a>
