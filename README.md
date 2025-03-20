@@ -16,6 +16,8 @@
 11.	Insert Slicers + Formatting
 12.	Updating the Pivot Table Data Source
 13.	Building the Dashboard
+    [Dashboard](https://github.com/babazeek/Excel-dashboard/blob/main/Coffeesalsedashboard.png)
+
 
     
  ## Data set used  
