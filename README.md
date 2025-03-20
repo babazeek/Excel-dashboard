@@ -1,5 +1,7 @@
 # Ms.Excel-dashboard
 "Join me on an exciting end-to-end Excel project where we’ll dive into real-world coffee sales data! We’ll gather, clean, and transform raw data, then use pivot tables and charts to build a dynamic dashboard. In the end, you'll have a powerful tool to track trends, analyze key metrics, and make data-driven decisions!
+
+
 ##steps/activities involved in the creation of the dashboard in cronological order;
 1.	XLOOKUP
 2.	INDEX MATCH
@@ -14,4 +16,7 @@
 11.	Insert Slicers + Formatting
 12.	Updating the Pivot Table Data Source
 13.	Building the Dashboard
- #Data set used
+
+    
+ ##Data set used
+ https://github.com/babazeek/Excel-dashboard/blob/main/coffeeOrdersData.xlsx
